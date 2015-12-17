@@ -1,4 +1,4 @@
-In order to use the provided script the user will need to download it to his/her local machine or server and install the dependencies installed noted in requirements.txt. The user will also need Jupyter Notebook and python 3.
+In order to use the provided script the user will need to download it to his/her local machine or server and install the dependencies noted in requirements.txt. The user will also need Jupyter Notebook and python 3.
 
 Then run the following command in the command line:
 jupyter notebook
